@@ -1,5 +1,5 @@
-reference to 
-https://github.com/qqwweee/keras-yolo3
+reference to https://github.com/qqwweee/keras-yolo3
+
 I simplify some details,add process_data file,
 and you can use two .py produce suitable data format to train.
 
